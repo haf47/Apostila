@@ -1,0 +1,50 @@
+body {
+    padding-left: 1%;
+}
+a {
+    text-decoration: none;
+}
+
+
+.tituloPrincipal {
+color:black;
+font-size: large;
+}
+
+.esdras {
+font-family: Arial, Helvetica, sans-serif; 
+text-decoration: none;
+}
+
+.cantico {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.comentariosIniciais {
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tesourosDaPalavraDeDeus {
+    color: darkslategrey;
+}
+h3 {
+ font-weight: lighter;   
+}
+
+.facaSeuMelhorNoMinisterio {
+    color: sienna;
+}
+
+.nossaVidaCrista {
+    color: red;
+}
+.necessidadesLocais {
+font-weight: lighter;
+       
+}
+
+
+
+
